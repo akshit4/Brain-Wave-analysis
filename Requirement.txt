@@ -1,1 +1,23 @@
 
+Here are the steps you can follow to install Spyder and Jupyter on your machine:
+
+1. Install Anaconda: Spyder and Jupyter are both included in the Anaconda distribution of Python. To install Anaconda, you can download the installer from the official website (https://www.anaconda.com/products/distribution/) and run it on your machine.
+
+2. Open Anaconda Navigator: After installing Anaconda, you can open Anaconda Navigator from the start menu or by typing anaconda-navigator in the command prompt.
+
+3. Launch Spyder: Once Anaconda Navigator is open, you can launch Spyder by clicking on the "Launch" button under the Spyder icon.
+
+4. Launch Jupyter Notebook: You can launch Jupyter Notebook by clicking on the "Launch" button under the Jupyter Notebook icon.
+
+5. Open Jupyter Notebook from command line: You can also open Jupyter notebook by running the command jupyter-notebook in the command prompt or terminal.
+
+6. Open Spyder from command line: You can also open Spyder by running the command spyder in the command prompt or terminal.
+
+Please keep in mind that these steps may vary slightly depending on your operating system.
+
+
+refer this 
+For Windows 10: https://youtu.be/5mDYijMfSzs
+For Windows 11: https://youtu.be/-sNX_ZMVpQM
+For Mac: https://youtu.be/daVgEXjv6DE
+For Ubuntu: https://youtu.be/K0cIYpqI-To
